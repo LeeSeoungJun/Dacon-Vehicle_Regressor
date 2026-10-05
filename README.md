@@ -2,7 +2,7 @@
 
 전기차의 다양한 특성 데이터를 활용해 **차량 가격을 예측하는 회귀 프로젝트**입니다.
 
-🔗 [Dacon Competition](https://dacon.io/)
+ [Dacon 대회 페이지](https://dacon.io/competitions/official/236424/overview/description)
 
 ## 프로젝트 목표
 
