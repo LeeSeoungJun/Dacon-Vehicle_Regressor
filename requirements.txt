@@ -11,3 +11,4 @@ yfinance>=0.2
 nbformat>=5
 nbclient>=0.10
 ipykernel>=6
+seaborn>=0.13

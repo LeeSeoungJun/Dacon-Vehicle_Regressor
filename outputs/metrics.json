@@ -1,8 +1,0 @@
-{
-  "selected_model": "LightGBM",
-  "holdout_rmse": 1.3855937601175952,
-  "holdout_mae": 0.7250260426863262,
-  "baseline_rmse": 36.89138932867669,
-  "unit": "백만원",
-  "split_seed": 2026
-}
